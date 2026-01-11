@@ -1,0 +1,38 @@
+[
+  {
+    "mood": "Happy",
+    "texts": [
+      "Life is short… Smile while you still have teeth 😁",
+      "Happiness is homemade 😎",
+      "Smile, it confuses people 😂",
+      "Be happy, it drives people crazy 😜"
+    ]
+  },
+  {
+    "mood": "Sad",
+    "texts": [
+      "I am not sad, just offline 😔",
+      "Some days are just bad days…",
+      "Tears are words the heart can't say 💧",
+      "Feeling blue, drinking tea ☕"
+    ]
+  },
+  {
+    "mood": "Angry",
+    "texts": [
+      "I am not arguing, I am just explaining why I am right 😡",
+      "Keep calm? I’m angry 😤",
+      "Anger is temporary, regret is forever 😠",
+      "I speak fluent sarcasm when angry 😤"
+    ]
+  },
+  {
+    "mood": "lalchi",
+    "texts": [
+      "I’m not greedy, I just love everything 🤑",
+      "More is always better 😎",
+      "If I like it, it’s mine 😏",
+      "Money, chocolate, pizza… don’t judge me 😋"
+    ]
+  }
+]
