@@ -2,37 +2,49 @@
   {
     "mood": "Happy",
     "texts": [
-      "Life is short… Smile while you still have teeth 😁",
-      "Happiness is homemade 😎",
-      "Smile, it confuses people 😂",
-      "Be happy, it drives people crazy 😜"
+      "Itna khush kyun hai bhai? Lottery lagi hai ya fir bina kaam ke hi uchhal raha hai 😂",
+      "Smile aise de raha hai jaise exam cancel ho gaya ho 😆",
+      "Lagta hai aaj free ka pizza mila hai, isliye itni chamak aa rahi hai 😜",
+      "Itna khush mat ho, nazar lag jayegi phir royega 😏",
+      "Badi badi hasi… andar se kuch gadbad lag rahi hai bhai 🤣",
+      "Tu itna khush hai jaise WiFi full signal pe aa gaya ho 📶😂",
+      "Control kar bhai, itni khushi dekh ke log tujhe pagal samjhenge 🤪"
     ]
   },
   {
     "mood": "Sad",
     "texts": [
-      "I am not sad, just offline 😔",
-      "Some days are just bad days…",
-      "Tears are words the heart can't say 💧",
-      "Feeling blue, drinking tea ☕"
+      "Itna sad mat ho, tera charger bhi zindagi se zyada low nahi hai 😔",
+      "Tu sad hai ya Netflix ka drama chal raha hai? 😢",
+      "Aisa face bana rakha hai jaise pocket me sirf 10 rupay bache ho 💔",
+      "Chinta mat kar, ye mood bhi update ho jayega 😂",
+      "Itna dukhi kyun hai bhai, tera phone bhi itna hang nahi karta 😅",
+      "Lagta hai crush ne seen karke reply nahi diya 😭",
+      "Sad ho ke bhi cute lag raha hai… thoda drama kam kar 😏"
     ]
   },
   {
     "mood": "Angry",
     "texts": [
-      "I am not arguing, I am just explaining why I am right 😡",
-      "Keep calm? I’m angry 😤",
-      "Anger is temporary, regret is forever 😠",
-      "I speak fluent sarcasm when angry 😤"
+      "Itna gussa? Lagta hai net slow chal raha hai 😡",
+      "Bhai shaant ho ja, tu Hulk nahi hai 😂",
+      "Aisa ghoor raha hai jaise kisi ne tera last samosa chura liya ho 😤",
+      "Gussa kam kar, warna phone bhi dar ke band ho jayega 📱😆",
+      "Tu gussa ho ke bhi comedy lag raha hai 🤣",
+      "Itna overreact mat kar, koi movie ka villain nahi hai tu 😏",
+      "Chill kar bhai, BP high ho jayega 😜"
     ]
   },
   {
     "mood": "lalchi",
     "texts": [
-      "I’m not greedy, I just love everything 🤑",
-      "More is always better 😎",
-      "If I like it, it’s mine 😏",
-      "Money, chocolate, pizza… don’t judge me 😋"
+      "Tu itna lalchi hai ki free ka pani bhi bottle me bhar leta hai 🤑",
+      "Aankhon me sirf khana aur paisa hi dikhta hai 😏",
+      "Lagta hai tu buffet me bhi fight kar de 😂",
+      "Free word sunte hi tera WiFi fast ho jata hai 🤣",
+      "Tu lalchi nahi, tu to full unlimited plan hai 😜",
+      "Chocolate ho ya paisa, sab pe nazar teri hi hoti hai 😎",
+      "Bhai sharing bhi hoti hai, sirf lene ka nahi 😆"
     ]
   }
 ]
